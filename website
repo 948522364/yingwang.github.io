@@ -20,9 +20,10 @@
 <body>
     <h1>Welcome to My Website!</h1>
     <h2>Check out this Bilibili video:</h2>
-    <!-- 嵌入代码开始 -->
+
+    <!-- 嵌入 Bilibili 视频 -->
     <iframe 
-        src="//player.bilibili.com/player.html?bvid=BV1A7411h7dz&cid&page=1" 
+        src="https://player.bilibili.com/player.html?isOutside=true&aid=87054165&bvid=BV1A7411h7dz&cid=148751561&p=1" 
         scrolling="no" 
         border="0" 
         frameborder="no" 
@@ -30,6 +31,6 @@
         allowfullscreen="true" 
         style="width: 640px; height: 360px;">
     </iframe>
-    <!-- 嵌入代码结束 -->
+
 </body>
 </html>
