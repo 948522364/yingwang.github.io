@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bilibili Video</title>
+</head>
+<body>
+    <h1>Welcome to My Website!</h1>
+    <h2>Check out this Bilibili video:</h2>
+    <!-- 嵌入代码开始 -->
+    <iframe 
+        src="//player.bilibili.com/player.html?bvid=BV1A7411h7dz&cid&page=1" 
+        scrolling="no" 
+        border="0" 
+        frameborder="no" 
+        framespacing="0" 
+        allowfullscreen="true" 
+        style="width: 640px; height: 360px;">
+    </iframe>
+    <!-- 嵌入代码结束 -->
+</body>
+</html>
